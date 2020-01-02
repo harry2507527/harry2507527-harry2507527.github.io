@@ -465,27 +465,27 @@ For example :
 如果你認為，藝術是典雅的美。
 那適合你的藝術就是崇尚黃金分割比例，追逐如同希臘神一樣「完美」體態的「古典主義」。
 
-![Untitled/david.jpg](Untitled/david.jpg)
+![Image/david.jpg](Untitled/david.jpg)
 
 如果你認為，藝術不是典雅的美，而是逼真的美
 那適合你的藝術是「北方文藝復興」，用細膩的油畫標註一切細節，連小鏡子中的倒影都藏著兩個人影，逼真的讓人想像不到如此小的畫框如何裝進如此多細節。
 
-![Untitled/The_Arnolfini_Portrait_detail_(7).jpg](Untitled/The_Arnolfini_Portrait_detail_(7).jpg)
+![Image/The_Arnolfini_Portrait_detail_(7).jpg](Untitled/The_Arnolfini_Portrait_detail_(7).jpg)
 
 如果你認為，藝術也不是逼真的美，而是華麗的美
 那適合你的就是「巴洛克」時期的藝術，大量金銀財寶、配合最浮誇的雕工，呈現上層社會最奢迷的一面。
 
-![Untitled/mirror_hall.jpg](Untitled/mirror_hall.jpg)
+![Image/mirror_hall.jpg](Untitled/mirror_hall.jpg)
 
 如果你認為藝術根本不是美，而是情感衝擊
 那你是「浪漫主義」的信徒，即使是畫面的人體不是完美、主題也是人性最不堪的一面，只要能衝擊人的情感，就是藝術。
 
-![Untitled/2048px-JEAN_LOUIS_THEODORE_GERICAULT_-_La_Balsa_de_la_Medusa_(Museo_del_Louvre_1818-19).jpg](Untitled/2048px-JEAN_LOUIS_THEODORE_GERICAULT_-_La_Balsa_de_la_Medusa_(Museo_del_Louvre_1818-19).jpg)
+![Image/2048px-JEAN_LOUIS_THEODORE_GERICAULT_-_La_Balsa_de_la_Medusa_(Museo_del_Louvre_1818-19).jpg](Untitled/2048px-JEAN_LOUIS_THEODORE_GERICAULT_-_La_Balsa_de_la_Medusa_(Museo_del_Louvre_1818-19).jpg)
 
 如果你認為，以上的定義總結都是片面的，藝術與否看的是有沒有開創性，有沒有體現「先鋒精神」
 那你對藝術的理解是「現代主義」，藝術的本質在於挑戰傳統，顛覆一切既有觀念。
 
-![Untitled/1024px-Duchamp_Fountaine.jpg](Untitled/1024px-Duchamp_Fountaine.jpg)
+![Image/1024px-Duchamp_Fountaine.jpg](Untitled/1024px-Duchamp_Fountaine.jpg)
 
 所以在「人文學科」上的辯論，始於「切入點」，也就是「什麼是藝術」，而回答的方式則是回到「背景」。
 
