@@ -156,7 +156,7 @@ E. 簡潔性 Simplicity
 
 這類型的論證是無效的、不真確的（invalid），但結論的「條件概率（conditional probability」非常高。一個推論基於某個前提下成立的概率越高，在歸納意義上論證效果就越好。
 
-![Untitled/4F86E170-C431-4ADA-9706-02FA85C878F9.jpeg](Untitled/4F86E170-C431-4ADA-9706-02FA85C878F9.jpeg)
+![Image/4F86E170-C431-4ADA-9706-02FA85C878F9.jpeg](Image/4F86E170-C431-4ADA-9706-02FA85C878F9.jpeg)
 
 從上圖可以看出，在概率等於1（必然是），是有效、真確（valid）的推論，但一般而言，只要**歸納意義上強**，例如概率>90%（或其他的門檻），我們就會把它視為「好」的論證。
 
@@ -168,7 +168,7 @@ E. 簡潔性 Simplicity
 
 在辯論比賽中，很多時候，對方論證的主軸可以被畫成以下的論證圖示。由一個個前提，推導出一個個結論。
 
-![Untitled/5174044F-FFA3-4CDA-80A8-8F8F244768FE.jpeg](Untitled/5174044F-FFA3-4CDA-80A8-8F8F244768FE.jpeg)
+![Image/5174044F-FFA3-4CDA-80A8-8F8F244768FE.jpeg](Image/5174044F-FFA3-4CDA-80A8-8F8F244768FE.jpeg)
 
 了解有關「論證」和「論證樹」的基本觀念後，該如何應用回到辯論的語境呢？
 
@@ -464,27 +464,27 @@ For example :
 如果你認為，藝術是典雅的美。
 那適合你的藝術就是崇尚黃金分割比例，追逐如同希臘神一樣「完美」體態的「古典主義」。
 
-![Image/david.jpg](Untitled/david.jpg)
+![Image/david.jpg](Image/david.jpg)
 
 如果你認為，藝術不是典雅的美，而是逼真的美
 那適合你的藝術是「北方文藝復興」，用細膩的油畫標註一切細節，連小鏡子中的倒影都藏著兩個人影，逼真的讓人想像不到如此小的畫框如何裝進如此多細節。
 
-![Image/The_Arnolfini_Portrait_detail_(7).jpg](Untitled/The_Arnolfini_Portrait_detail_(7).jpg)
+![Image/The_Arnolfini_Portrait_detail_(7).jpg](Image/The_Arnolfini_Portrait_detail_(7).jpg)
 
 如果你認為，藝術也不是逼真的美，而是華麗的美
 那適合你的就是「巴洛克」時期的藝術，大量金銀財寶、配合最浮誇的雕工，呈現上層社會最奢迷的一面。
 
-![Image/mirror_hall.jpg](Untitled/mirror_hall.jpg)
+![Image/mirror_hall.jpg](Image/mirror_hall.jpg)
 
 如果你認為藝術根本不是美，而是情感衝擊
 那你是「浪漫主義」的信徒，即使是畫面的人體不是完美、主題也是人性最不堪的一面，只要能衝擊人的情感，就是藝術。
 
-![Image/2048px-JEAN_LOUIS_THEODORE_GERICAULT_-_La_Balsa_de_la_Medusa_(Museo_del_Louvre_1818-19).jpg](Untitled/2048px-JEAN_LOUIS_THEODORE_GERICAULT_-_La_Balsa_de_la_Medusa_(Museo_del_Louvre_1818-19).jpg)
+![Image/2048px-JEAN_LOUIS_THEODORE_GERICAULT_-_La_Balsa_de_la_Medusa_(Museo_del_Louvre_1818-19).jpg](Image/2048px-JEAN_LOUIS_THEODORE_GERICAULT_-_La_Balsa_de_la_Medusa_(Museo_del_Louvre_1818-19).jpg)
 
 如果你認為，以上的定義總結都是片面的，藝術與否看的是有沒有開創性，有沒有體現「先鋒精神」
 那你對藝術的理解是「現代主義」，藝術的本質在於挑戰傳統，顛覆一切既有觀念。
 
-![Image/1024px-Duchamp_Fountaine.jpg](Untitled/1024px-Duchamp_Fountaine.jpg)
+![Image/1024px-Duchamp_Fountaine.jpg](Image/1024px-Duchamp_Fountaine.jpg)
 
 所以在「人文學科」上的辯論，始於「切入點」，也就是「什麼是藝術」，而回答的方式則是回到「背景」。
 
